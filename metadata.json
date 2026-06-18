@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "An energetic, Duolingo-style day-to-day expense and spend tracker with categorized visual tracking, monthly reports, and interactive cartoon-style UI elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
